@@ -103,7 +103,7 @@ python app.py    # http://127.0.0.1:8000
 ## Cite
 
 ```bibtex
-@software{ali_knowledge_grounded_signaling_security,
+@software{a_knowledge_grounded_signaling_security,
   author    = {Rehman, Altaf ur and Ali, Muhammad Haris},
   title     = {A Knowledge-Grounded Agentic AI Framework for Multi-Protocol Telecom Signaling Security},
   year      = {2026},
